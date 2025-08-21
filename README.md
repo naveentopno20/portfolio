@@ -1,4 +1,4 @@
-# Naveen — Itachi Sharingan Portfolio
+# Naveen — Portfolio
 
 ## Quick start
 ```bash
